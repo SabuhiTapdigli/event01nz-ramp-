@@ -51,7 +51,7 @@ export default function Home() {
             <Button
               size="lg"
               variant="outline"
-              className="border-primary-foreground/20 hover:bg-primary-foreground/10"
+              className="border-primary-foreground/20 bg-primary-foreground/10"
               asChild
             >
               <Link href="/register">Register Now</Link>
