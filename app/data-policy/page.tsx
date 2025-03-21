@@ -158,7 +158,7 @@ export default function DataPolicy() {
               <p>TopEventsNZ.com NZ</p>
               <p>135 Queen Street</p>
               <p>Auckland CBD, Auckland 1010</p>
-              <p>Email: data@TopEventsNZ.com.co.nz</p>
+              <p>Email: data@TopEventsNZ.com.</p>
               <p>Phone: (09) 555-7000</p>
             </address>
           </section>

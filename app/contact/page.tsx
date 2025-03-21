@@ -170,7 +170,7 @@ export default function Contact() {
               <CardContent className="p-6">
                 <h3 className="font-bold mb-2">Contact Details</h3>
                 <div className="space-y-2 text-muted-foreground">
-                  <p>Email: info@TopEventsNZ.com.co.nz</p>
+                  <p>Email: info@TopEventsNZ.com.</p>
                   <p>Phone: (09) 555-7000</p>
                   <p>Fax: (09) 555-7001</p>
                 </div>

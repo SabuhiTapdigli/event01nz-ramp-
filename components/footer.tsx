@@ -90,7 +90,7 @@ export default function Footer() {
             <address className="not-italic text-sm text-muted-foreground">
               <p>135 Queen Street</p>
               <p>Auckland CBD, Auckland 1010</p>
-              <p className="mt-2">Email: info@TopEventsNZ.com.co.nz</p>
+              <p className="mt-2">Email: info@TopEventsNZ.com.</p>
               <p>Phone: (09) 555-7000</p>
             </address>
           </div>
