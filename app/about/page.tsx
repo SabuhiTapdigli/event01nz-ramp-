@@ -19,7 +19,7 @@ export default function About() {
         <div>
           <h2 className="text-3xl font-bold mb-4">Our Story</h2>
           <p className="text-muted-foreground mb-4">
-            Founded in 2010, TopEventsNZ.com New Zealand began with a simple
+            Founded in 2024, TopEventsNZ.com New Zealand began with a simple
             mission: to create extraordinary event experiences that combine
             valuable content with professional organization in the beautiful
             settings of Aotearoa.

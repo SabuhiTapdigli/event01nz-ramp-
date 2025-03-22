@@ -9,134 +9,107 @@ export default function PrivacyPolicy() {
 
         <div className="prose prose-sm dark:prose-invert max-w-none">
           <p className="text-muted-foreground mb-6">
-            Last updated: March 21, 2025
+            Effective Date: March 21, 2025
           </p>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">Introduction</h2>
+            <h2 className="text-2xl font-bold mb-4">Our Commitment</h2>
             <p>
-              TopEventsNZ.com NZ ("we", "our", or "us") is committed to
-              protecting your privacy. This Privacy Policy explains how we
-              collect, use, disclose, and safeguard your information when you
-              visit our website or use our services.
+              At TopEventsNZ.com, your trust matters to us. This Privacy Policy
+              outlines how we collect, use, and protect your personal data when
+              you visit our website or engage with our services.
             </p>
             <p>
-              Please read this privacy policy carefully. If you do not agree
-              with the terms of this privacy policy, please do not access the
-              site.
+              By using our site, you accept the practices described in this
+              policy. If you disagree, please discontinue use of the platform.
             </p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">Information We Collect</h2>
+            <h2 className="text-2xl font-bold mb-4">
+              Data Collection Overview
+            </h2>
             <p>
-              We may collect information about you in a variety of ways. The
-              information we may collect includes:
+              We gather information to enhance your experience. This includes:
             </p>
 
-            <h3 className="text-xl font-bold mt-6 mb-3">Personal Data</h3>
-            <p>
-              When you register for an account, purchase tickets, or sign up for
-              our newsletter, we collect personally identifiable information,
-              such as your:
-            </p>
+            <h3 className="text-xl font-bold mt-6 mb-3">Details You Provide</h3>
+            <p>When you sign up, buy tickets, or subscribe, we may request:</p>
             <ul className="list-disc pl-6 mb-4 space-y-1">
-              <li>Name</li>
+              <li>Your name</li>
               <li>Email address</li>
               <li>Phone number</li>
-              <li>Mailing address</li>
-              <li>
-                Payment information (processed securely through our payment
-                processors)
-              </li>
+              <li>Billing or shipping address</li>
+              <li>Payment details (handled by secure third parties)</li>
             </ul>
 
-            <h3 className="text-xl font-bold mt-6 mb-3">Usage Data</h3>
-            <p>
-              We may also collect information about how you access and use our
-              website, including:
-            </p>
+            <h3 className="text-xl font-bold mt-6 mb-3">Technical Insights</h3>
+            <p>We automatically collect technical data such as:</p>
             <ul className="list-disc pl-6 mb-4 space-y-1">
-              <li>Your IP address</li>
-              <li>Browser type</li>
-              <li>Operating system</li>
-              <li>Pages you visit</li>
-              <li>Time and date of your visit</li>
-              <li>Time spent on those pages</li>
-              <li>Other statistics</li>
+              <li>IP address and device information</li>
+              <li>Browser and operating system</li>
+              <li>Pages visited and time spent</li>
+              <li>Date/time of access</li>
+              <li>User interactions and behavior patterns</li>
             </ul>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">
-              How We Use Your Information
-            </h2>
-            <p>We may use the information we collect about you to:</p>
+            <h2 className="text-2xl font-bold mb-4">Why We Use Your Info</h2>
+            <p>Your data may be used to:</p>
             <ul className="list-disc pl-6 mb-4 space-y-1">
-              <li>Create and manage your account</li>
-              <li>Process ticket purchases and send confirmation emails</li>
-              <li>Send you event updates and promotional materials</li>
-              <li>Respond to your inquiries and customer service requests</li>
-              <li>Improve our website and services</li>
-              <li>Comply with legal obligations</li>
+              <li>Set up and manage your account</li>
+              <li>Process transactions and send updates</li>
+              <li>Deliver event news and exclusive offers</li>
+              <li>Respond to queries or support requests</li>
+              <li>Enhance website features and content</li>
+              <li>Fulfill legal and compliance obligations</li>
             </ul>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">
-              Disclosure of Your Information
-            </h2>
+            <h2 className="text-2xl font-bold mb-4">When We Share Data</h2>
             <p>
-              We may share information we have collected about you in certain
-              situations. Your information may be disclosed as follows:
+              We may disclose your information under the following conditions:
             </p>
 
             <h3 className="text-xl font-bold mt-6 mb-3">
-              By Law or to Protect Rights
+              Legal & Safety Reasons
             </h3>
             <p>
-              If we believe the release of information about you is necessary to
-              respond to legal process, to investigate or remedy potential
-              violations of our policies, or to protect the rights, property,
-              and safety of others, we may share your information as permitted
-              or required by any applicable law, rule, or regulation.
+              We may share data to comply with laws, enforce our terms, or
+              protect our users, systems, and rights.
             </p>
 
-            <h3 className="text-xl font-bold mt-6 mb-3">
-              Third-Party Service Providers
-            </h3>
+            <h3 className="text-xl font-bold mt-6 mb-3">Service Providers</h3>
             <p>
-              We may share your information with third parties that perform
-              services for us or on our behalf, including payment processing,
-              data analysis, email delivery, hosting services, customer service,
-              and marketing assistance.
+              We collaborate with trusted vendors to handle services such as
+              hosting, analytics, payment, marketing, and customer care.
             </p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">Your Rights</h2>
-            <p>You have the right to:</p>
+            <h2 className="text-2xl font-bold mb-4">Your Choices & Rights</h2>
+            <p>You may exercise your rights, including:</p>
             <ul className="list-disc pl-6 mb-4 space-y-1">
-              <li>Access the personal information we hold about you</li>
-              <li>
-                Request that we correct any inaccurate personal information
-              </li>
-              <li>Request that we delete your personal information</li>
-              <li>Opt-out of marketing communications</li>
+              <li>Requesting access to your personal data</li>
+              <li>Correcting or updating your information</li>
+              <li>Asking for deletion of your records</li>
+              <li>Managing your communication preferences</li>
             </ul>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">Contact Us</h2>
+            <h2 className="text-2xl font-bold mb-4">Contact Details</h2>
             <p>
-              If you have questions or comments about this Privacy Policy,
-              please contact us at:
+              If you have any questions or need assistance regarding this
+              Privacy Policy, feel free to reach out:
             </p>
             <address className="not-italic mt-4">
-              <p>TopEventsNZ.com NZ</p>
+              <p>TopEventsNZ.com</p>
               <p>135 Queen Street</p>
               <p>Auckland CBD, Auckland 1010</p>
-              <p>Email: privacy@TopEventsNZ.com.</p>
+              <p>Email: privacy@TopEventsNZ.com</p>
               <p>Phone: (09) 555-7000</p>
             </address>
           </section>

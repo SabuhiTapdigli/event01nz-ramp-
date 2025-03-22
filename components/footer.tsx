@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container py-8 md:py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="space-y-4">
-            <h3 className="text-lg font-bold">TopEventsNZ.com NZ</h3>
+            <h3 className="text-lg font-bold">TopEventsNZ.com</h3>
             <p className="text-sm text-muted-foreground">
               Experience the best events and conferences across New Zealand.
             </p>
