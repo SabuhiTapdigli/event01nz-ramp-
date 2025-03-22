@@ -38,7 +38,7 @@ export default function Home() {
       <section className="relative bg-primary text-primary-foreground">
         <div className="container py-24 flex flex-col justify-center items-center text-center space-y-6">
           <h1 className="text-4xl md:text-6xl font-bold">
-            TopEventsNZ.com New Zealand
+            Top Events in New Zealand
           </h1>
           <p className="text-xl md:text-2xl max-w-2xl">
             Discover and book the best conferences, workshops, and entertainment
