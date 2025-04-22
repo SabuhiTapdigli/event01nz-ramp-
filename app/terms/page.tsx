@@ -15,7 +15,7 @@ export default function TermsAndConditions() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">Use of Our Platform</h2>
             <p>
-              By accessing TopEventsNZ.com, you acknowledge that you’ve read,
+              By accessing casinoevent.casino, you acknowledge that you’ve read,
               understood, and agreed to the terms set out below. If you do not
               agree with these terms, please do not use our platform or
               services.
@@ -28,9 +28,9 @@ export default function TermsAndConditions() {
             </h2>
             <p>
               All material found on this site, including images, text, branding,
-              and features, belong to TopEventsNZ.com. You are not permitted to
-              reuse, copy, or distribute any part of the site’s content unless
-              we provide written permission.
+              and features, belong to casinoevent.casino. You are not permitted
+              to reuse, copy, or distribute any part of the site’s content
+              unless we provide written permission.
             </p>
           </section>
 
@@ -52,7 +52,7 @@ export default function TermsAndConditions() {
             </h2>
             <p>
               All ticket sales are binding. Refunds will only be issued if an
-              event is formally canceled. TopEventsNZ.com may modify or
+              event is formally canceled. casinoevent.casino may modify or
               discontinue services, suspend accounts, or deny transactions at
               our discretion.
             </p>
@@ -99,10 +99,10 @@ export default function TermsAndConditions() {
             <h2 className="text-2xl font-bold mb-4">Talk to Us</h2>
             <p>Need help or clarification? Reach out to our team:</p>
             <address className="not-italic mt-4">
-              <p>TopEventsNZ.com</p>
+              <p>casinoevent.casino</p>
               <p>135 Queen Street</p>
               <p>Auckland CBD, Auckland 1010</p>
-              <p>Email: legal@TopEventsNZ.com</p>
+              <p>Email: legal@casinoevent.casino</p>
               <p>Phone: (09) 555-7000</p>
             </address>
           </section>

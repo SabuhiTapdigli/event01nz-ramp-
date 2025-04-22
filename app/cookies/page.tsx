@@ -28,8 +28,9 @@ export default function CookiePolicy() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">How We Use Cookies</h2>
             <p>
-              TopEventsNZ.com uses cookies to optimize your experience, enhance
-              functionality, and personalize content. We may use cookies for:
+              casinoevent.casino uses cookies to optimize your experience,
+              enhance functionality, and personalize content. We may use cookies
+              for:
             </p>
             <ul className="list-disc pl-6 mb-4 space-y-1">
               <li>Ensuring key features of our website work smoothly</li>
@@ -111,10 +112,10 @@ export default function CookiePolicy() {
               If you have questions about how we use cookies, please reach out:
             </p>
             <address className="not-italic mt-4">
-              <p>TopEventsNZ.com</p>
+              <p>casinoevent.casino</p>
               <p>135 Queen Street</p>
               <p>Auckland CBD, Auckland 1010</p>
-              <p>Email: privacy@TopEventsNZ.com</p>
+              <p>Email: privacy@casinoevent.casino</p>
               <p>Phone: (09) 555-7000</p>
             </address>
           </section>

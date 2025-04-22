@@ -15,9 +15,9 @@ export default function PrivacyPolicy() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">Our Commitment</h2>
             <p>
-              At TopEventsNZ.com, your trust matters to us. This Privacy Policy
-              outlines how we collect, use, and protect your personal data when
-              you visit our website or engage with our services.
+              At casinoevent.casino, your trust matters to us. This Privacy
+              Policy outlines how we collect, use, and protect your personal
+              data when you visit our website or engage with our services.
             </p>
             <p>
               By using our site, you accept the practices described in this
@@ -106,10 +106,10 @@ export default function PrivacyPolicy() {
               Privacy Policy, feel free to reach out:
             </p>
             <address className="not-italic mt-4">
-              <p>TopEventsNZ.com</p>
+              <p>casinoevent.casino</p>
               <p>135 Queen Street</p>
               <p>Auckland CBD, Auckland 1010</p>
-              <p>Email: privacy@TopEventsNZ.com</p>
+              <p>Email: privacy@casinoevent.casino</p>
               <p>Phone: (09) 555-7000</p>
             </address>
           </section>

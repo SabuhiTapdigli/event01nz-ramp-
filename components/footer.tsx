@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container py-8 md:py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="space-y-4">
-            <h3 className="text-lg font-bold">TopEventsNZ.com</h3>
+            <h3 className="text-lg font-bold">casinoevent.casino</h3>
             <p className="text-sm text-muted-foreground">
               Experience the best events and conferences across New Zealand.
             </p>
@@ -90,15 +90,15 @@ export default function Footer() {
             <address className="not-italic text-sm text-muted-foreground">
               <p>135 Queen Street</p>
               <p>Auckland CBD, Auckland 1010</p>
-              <p className="mt-2">Email: info@TopEventsNZ.com.</p>
+              <p className="mt-2">Email: info@casinoevent.casino.</p>
               <p>Phone: (09) 555-7000</p>
             </address>
           </div>
         </div>
         <div className="mt-8 pt-8 border-t text-center text-sm text-muted-foreground">
           <p>
-            &copy; {new Date().getFullYear()} TopEventsNZ.com New Zealand. All
-            rights reserved.
+            &copy; {new Date().getFullYear()} casinoevent.casino New Zealand.
+            All rights reserved.
           </p>
         </div>
       </div>

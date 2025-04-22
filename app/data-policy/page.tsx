@@ -15,7 +15,7 @@ export default function DataPolicy() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">Our Approach to Data</h2>
             <p>
-              At TopEventsNZ.com, transparency and security in how we handle
+              At casinoevent.casino, transparency and security in how we handle
               your data are core to our commitment. This document outlines how
               your data is collected, processed, stored, and shared.
             </p>
@@ -122,10 +122,10 @@ export default function DataPolicy() {
             <h2 className="text-2xl font-bold mb-4">Contact Information</h2>
             <p>Have questions? Contact our Data Protection Officer:</p>
             <address className="not-italic mt-4">
-              <p>TopEventsNZ.com</p>
+              <p>casinoevent.casino</p>
               <p>135 Queen Street</p>
               <p>Auckland CBD, Auckland 1010</p>
-              <p>Email: data@TopEventsNZ.com</p>
+              <p>Email: data@casinoevent.casino</p>
               <p>Phone: (09) 555-7000</p>
             </address>
           </section>

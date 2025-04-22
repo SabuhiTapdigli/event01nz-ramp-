@@ -44,7 +44,7 @@ export default function Navbar() {
         <div className="flex items-center gap-2">
           <Link href="/" className="flex items-center space-x-2">
             <span className="text-2xl font-bold text-primary">
-              TopEventsNZ.com
+              casinoevent.casino
             </span>
           </Link>
         </div>

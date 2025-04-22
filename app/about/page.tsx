@@ -6,7 +6,7 @@ export default function About() {
     <div className="container py-12">
       <div className="space-y-4 mb-12 text-center max-w-3xl mx-auto">
         <h1 className="text-4xl font-bold">
-          About TopEventsNZ.com New Zealand
+          About casinoevent.casino New Zealand
         </h1>
         <p className="text-xl text-muted-foreground">
           The premier destination for conferences, workshops, and events in
@@ -19,7 +19,7 @@ export default function About() {
         <div>
           <h2 className="text-3xl font-bold mb-4">Our Story</h2>
           <p className="text-muted-foreground mb-4">
-            Founded in 2024, TopEventsNZ.com New Zealand began with a simple
+            Founded in 2024, casinoevent.casino New Zealand began with a simple
             mission: to create extraordinary event experiences that combine
             valuable content with professional organization in the beautiful
             settings of Aotearoa.
@@ -55,8 +55,8 @@ export default function About() {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold mb-4">Our Values</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            At TopEventsNZ.com, we're guided by a set of core values that define
-            how we operate and serve our clients.
+            At casinoevent.casino, we're guided by a set of core values that
+            define how we operate and serve our clients.
           </p>
         </div>
 
@@ -150,7 +150,7 @@ export default function About() {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold mb-4">Our Team</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Meet the dedicated professionals who make TopEventsNZ.com events
+            Meet the dedicated professionals who make casinoevent.casino events
             exceptional.
           </p>
         </div>
@@ -178,7 +178,7 @@ export default function About() {
       {/* CTA Section */}
       <div className="text-center py-12 px-6 bg-muted rounded-lg">
         <h2 className="text-3xl font-bold mb-4">
-          Ready to Experience TopEventsNZ.com?
+          Ready to Experience casinoevent.casino?
         </h2>
         <p className="text-muted-foreground max-w-2xl mx-auto mb-8">
           Join us for an unforgettable event. Browse our upcoming conferences
